@@ -1,4 +1,4 @@
-# MongoDB for Absolute Beginners 
+## MongoDB for Absolute Beginners 
 
 This is a **complete beginner-friendly MongoDB tutorial**.  
 Even if you have **never written a single database query before**, you can follow along comfortably.
